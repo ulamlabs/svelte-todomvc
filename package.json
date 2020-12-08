@@ -43,5 +43,8 @@
     "rollup-plugin-terser": "^4.0.4",
     "surge": "^0.20.1",
     "svelte": "^3.0.0-beta.20"
+  },
+  "engines": {
+    "node": "10.x"
   }
 }
